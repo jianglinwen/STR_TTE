@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Run
 The command of processing is listed bellow: 
 ```
-(base) root@gpu:~/STR-TTE#  python .\main.py --help
+(base) root@gpu:~/STR-TTE#  python ./main.py --help
 usage: main.py [-h] [-m {STR_TTE}] [-M {train,resume,test}]
                [-d {fujian_STR_TTE}] [-i IDENTIFY]
                [-D DEVICE] [-o {Adam}] [-c {rmse,mse,mape,mae,smoothL1}]
