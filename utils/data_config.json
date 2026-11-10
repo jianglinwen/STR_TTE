@@ -1,0 +1,18 @@
+{
+  "fujian_STR_TTE": {
+    "data_dir": "data/fujian",
+    "batch_size": 64,
+    "collate_fn": "STR_TTE_collate_func",
+    "time_mean": 30.43,
+    "time_std": 27.13,
+    "edges": 3734,
+    "edges_dir": "data/fujian/edge_info.pkl",
+    "nodes_dir": "data/fujian/node_info.pkl",
+    "gps_range": [
+      28.21,
+      120.38,
+      28.20,
+      120.38
+    ]
+  }
+}
