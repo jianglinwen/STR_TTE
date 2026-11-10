@@ -53,5 +53,5 @@ optional arguments:
 ```
 For example, you can train the model through the following commands: 
 ```
-python .\main.py --model STR_TTE --dataset fujian_STR_TTE --identify example_0 --device cuda:0    
+python ./main.py --model STR_TTE --dataset fujian_STR_TTE --identify example_0 --device cuda:0    
 ```
